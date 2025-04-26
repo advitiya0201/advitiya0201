@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Advitiya</h1>
 <h3 align="center">🚀 Software Engineer | 💡 Tech Enthusiast | 🧠 Lifelong Learner</h3>
 
 <p align="center">
@@ -11,9 +11,8 @@
 
 - 🎓 I'm currently a [Your Role or Course] at [Your Institution/Company]
 - 🔭 I’m working on: [Current Project or Focus Area]
-- 🌱 I’m learning: [Tech stack or topic you're currently exploring]
-- 💬 Ask me about: [Technologies or topics you're confident in]
-- 📫 How to reach me: [Your email or LinkedIn]
+- 🌱 I’m learning: Websockets in Go
+- 📫 How to reach me: f20210979@pilani.bits-pilani.ac.in
 - ⚡ Fun fact: [Something quirky or interesting about you]
 
 ---
@@ -40,16 +39,16 @@
 
 ### 🧠 My Recent Focus Areas
 - ✍️ Building: [Your recent project]
-- 🔍 Exploring: [A new tech/tool you're playing with]
+- 🔍 Exploring: Go
 - 📚 Reading: [Latest book/article/paper you found interesting]
 
 ---
 
 ### 🔗 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=firefox-browser&logoColor=white)](https://yourportfolio.com)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advitiya-jain-680851230/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=firefox-browser&logoColor=white)](https://drive.google.com/drive/home)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:f20210979@pilani.bits-pilani.ac.in)
 
 ---
 
